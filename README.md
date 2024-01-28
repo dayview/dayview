@@ -1,5 +1,8 @@
-### Hi there 👋
+### 🌸 good day! 🌸
 
+- currently studying in dlsu, shiftee (game arts -> information systems)
+- learning c, then java next!
+- this readme serves as a purpose to motivate myself 😭
 <!--
 **dayview/dayview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
