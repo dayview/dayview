@@ -1,8 +1,7 @@
 ### 🌸 good day! 🌸
 
-- 🤓 currently studying in dlsu (information systems)
 - 📚 known languages: c
-- 🫶 currently learning: flutter
+- 🫶 currently learning: HTML, CSS, flutter
 <!--
 **dayview/dayview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
