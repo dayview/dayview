@@ -11,7 +11,7 @@
   - learning sql (soon)
 
 #### 📫 let's connect!
-  - [linkedin](linkedin.com/leonpavino)
+  - [linkedin](https://www.linkedin.com/in/leonpavino/)
   - pronouns: they/them
   - fun fact: i like mint chocolate chip ice cream
 <!--
