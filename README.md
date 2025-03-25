@@ -1,7 +1,19 @@
-### 🌸 good day! 🌸
+### 🌸 good day! welcome to my profile 🌸
 
-- 📚 known languages: c
-- 🫶 currently learning: HTML, CSS, flutter
+#### 🔭 current knowledge and skills!
+
+**languages**
+  - intermediate: c
+  - basic: html, css, flutter
+
+#### 🤔 about me!
+  - currently exploring web and mobile development
+  - learning sql (soon)
+
+#### 📫 let's connect!
+  - linkedin.com/leonpavino
+  - pronouns: they/them
+  - fun fact: i like mint chocolate chip ice cream
 <!--
 **dayview/dayview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
