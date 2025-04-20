@@ -1,4 +1,4 @@
-### 🌸 good day! welcome to my profile 🌸
+### 🌸 welcome to my profile 🌸
 
 #### 🔭 current knowledge and skills!
 
