@@ -3,12 +3,11 @@
 #### 🔭 current knowledge and skills!
 
 **languages**
-  - intermediate: c
-  - basic: html, css, flutter
+  - proficient: c
+  - basic: html, css, sql, javascript
 
 #### 🤔 about me!
-  - currently exploring web and mobile development
-  - learning sql (soon)
+  - currently exploring data analytics
 
 #### 📫 let's connect!
   - [linkedin](https://www.linkedin.com/in/leonpavino/)
