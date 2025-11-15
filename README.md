@@ -14,6 +14,9 @@
   - [last.fm](https://www.last.fm/dayview)
   - [ui/ux portfolio!](https://sites.google.com/dlsu.edu.ph/leonpavinouiux/home)
   - i like mint chocolate chip ice cream
+
+#### currently listening to:
+[![My Scrobbles](https://lastfm-recently-played.vercel.app/api?user=dayview)](https://www.last.fm/user/dayview)
 <!--
 **dayview/dayview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
