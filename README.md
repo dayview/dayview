@@ -1,19 +1,19 @@
 ### 🌸 welcome to my profile 🌸
 
-**languages** <br>
+#### languages <br>
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
   [![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-**web technologies** <br>
+#### web technologies <br>
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**frameworks & libraries** <br>
+#### frameworks & libraries <br>
 [![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)](https://openjfx.io/)
 
-**tools & IDEs** <br>
+#### tools & IDEs <br>
 [![Appium](https://img.shields.io/badge/Appium-41BDF5?logo=appium&logoColor=white)](https://appium.io/)
 [![Appium Studio](https://img.shields.io/badge/Appium_Studio-663399?logoColor=white)](https://experitest.com/mobile-test-automation/appium-studio-ide/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
