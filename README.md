@@ -8,7 +8,7 @@
 
 #### web technologies <br>
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### frameworks & libraries <br>
 [![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)](https://openjfx.io/)
